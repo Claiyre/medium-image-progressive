@@ -34,8 +34,8 @@ import { MPImg } from 'medium-image-progressive'
 
 // render
 <MPImg
-  src="https://cdn-images-1.medium.com/freeze/max/30/1*LyAN2qcxGdVXXQBiV7IuGQ.jpeg?q=20"
-  data-src="https://cdn-images-1.medium.com/max/800/1*LyAN2qcxGdVXXQBiV7IuGQ.jpeg"
+  src="xx"
+  data-src="xx"
   width="700"
   height="480"
   />
